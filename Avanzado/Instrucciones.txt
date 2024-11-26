@@ -1,0 +1,7 @@
+En este apartado vas a aprender como crear los proyectos mas complejos, averiguando como se desarrollan las maquinas mas avanzadas he inteligentes.
+Propias de una pelicuals de ciencia ficción.
+Tambien aprenderas de cifrado y ciberseguridad, desarrollaras un excaepticismo por la información que conoces y los datos que recibes en tu dispositivo.
+A su vez, aprenderas de comunicacion entre dispositivos via Wi-Fi y como se implementa. 
+Todo esto con ejemplos practicos y tareas que, aun que parezcan sencillas, no lo seran tanto.
+
+Quien sabe, lo mismo contribulles al fin del mundo por las máquinas o crearás tu propio Instagram. ¿Quién sabe?
