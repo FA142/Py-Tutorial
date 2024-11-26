@@ -1,0 +1,1 @@
+Aquí aprenderas como crear maquinas que se comunican y entiende el mundo extrerior por medio de imagenes.
