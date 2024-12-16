@@ -1,0 +1,8 @@
+[
+    {"origen": "USD", "destino": "EUR", "tasa": 0.85},
+    {"origen": "EUR", "destino": "USD", "tasa": 1.18},
+    {"origen": "USD", "destino": "MXN", "tasa": 20.0},
+    {"origen": "MXN", "destino": "USD", "tasa": 0.05},
+    {"origen": "EUR", "destino": "MXN", "tasa": 23.5},
+    {"origen": "MXN", "destino": "EUR", "tasa": 0.042}
+]
