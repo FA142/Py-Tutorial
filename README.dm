@@ -7,4 +7,6 @@ En el apartado medio aprenderás operaciones que facilitan el trabajo y hacen m�
 
 En el apartado avanzado encontrarás proyectos complejos y que requieren de más tiempo para completarse, ideales para proyectos fin de estudios o para ferias de ciencias. 
 
+Dentro de este repositorio podras enfrentar problemas sencillos, medios y, como no, avanzados para controlar de manera proctica Pyhton.
+
 Muchas gracias y mantenernos atentos, siempre estamos añadiendo cosas. 
